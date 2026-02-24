@@ -26,7 +26,7 @@ function App() {
           <img src={`${file_path}/img/2023-09.png`} alt="Luminosity in Gaza in September 2023" />
         </div>
         <div className="image_container">
-          <h4>22–23 May 2025</h4>
+          <h4>9–10 October 2025</h4>
           <img src={`${file_path}/img/2025-10.png`} alt="Luminosity in Gaza in October 2025" />
         </div>
       </div>
