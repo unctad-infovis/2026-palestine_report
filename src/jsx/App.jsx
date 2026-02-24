@@ -14,7 +14,7 @@ function App() {
           <div className="main_title_container">
             <img src="https://static.dwcdn.net/custom/themes/unctad-2024-rebrand/Blue%20arrow.svg" className="logo" alt="UN Trade and Development logo" width="44" height="44" />
             <div className="title">
-              <h3>Power out in Gaza: 73% collapse in economic and human activity</h3>
+              <h3>Power out in Gaza: 75% collapse in economic and human activity</h3>
             </div>
           </div>
           <h4>Night-time luminosity in Gaza</h4>
