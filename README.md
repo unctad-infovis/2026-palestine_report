@@ -6,6 +6,8 @@
 
 Night-time luminosity satellite imagery of Gaza showing a 75% collapse in economic and human activity, comparing September–October 2023 against October 2025.
 
+Used in [The cumulative economic cost of occupation of the Palestinian people, 2000–2024, and the long road to recovery](https://unctad.org/publication/cumulative-economic-cost-occupation-palestinian-people-2000-2024-and-long-road-recovery).
+
 ## Embedding
 
 ```html
